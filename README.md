@@ -6,8 +6,11 @@ It shows real-time weather updates for any city using an external weather API.
 ⚙️ Tech Stack
 
 🧩 Language: Java
+
 🧱 Framework: Android SDK
+
 ☁️ API: OpenWeatherMap API
+
 🎨 UI: XML Layouts, Material Components
 
 🚀 Features
