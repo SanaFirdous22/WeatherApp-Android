@@ -15,11 +15,14 @@ It shows real-time weather updates for any city using an external weather API.
 
 # 📸 App Screenshots
 
-#<img width="100" height="200" alt="first_screen" src="https://github.com/user-attachments/assets/61a01d0a-01b6-4221-8dbd-44d1d17e77a4" />
+<img width="300" height="700" alt="first_screen" src="https://github.com/user-attachments/assets/61a01d0a-01b6-4221-8dbd-44d1d17e77a4" />
+<br/><b>🌦️ Home Screen</b>
+<br/><br/>
 
-<img width="100" height="200" alt="search screen" src="https://github.com/user-attachments/assets/d3bde4b2-dfe6-4894-982c-8d0c12f7a937" />
+<img width="300" height="700" alt="search screen" src="https://github.com/user-attachments/assets/d3bde4b2-dfe6-4894-982c-8d0c12f7a937" />
 
-<img width="100" height="200" alt="second_screen" src="https://github.com/user-attachments/assets/3c282b71-61ca-4868-a0bc-20d1029e4409" />
+
+<img width="300" height="700" alt="second_screen" src="https://github.com/user-attachments/assets/3c282b71-61ca-4868-a0bc-20d1029e4409" />
 
 🚀 Features
 
