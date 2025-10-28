@@ -21,8 +21,9 @@ It shows real-time weather updates for any city using an external weather API.
 
 <img width="300" height="700" alt="search screen" src="https://github.com/user-attachments/assets/d3bde4b2-dfe6-4894-982c-8d0c12f7a937" />
 
-
-<img width="300" height="700" alt="second_screen" src="https://github.com/user-attachments/assets/3c282b71-61ca-4868-a0bc-20d1029e4409" />
+  <img width="300" height="700" alt="second_screen" src="https://github.com/user-attachments/assets/3c282b71-61ca-4868-a0bc-20d1029e4409" />
+<br/><b>🔍 Search City Weather</b>
+  <br/><br/>
 
 🚀 Features
 
